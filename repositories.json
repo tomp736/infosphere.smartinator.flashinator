@@ -1,0 +1,16 @@
+{
+    "GitHubRepositoryConfigs": [
+        {
+            "githubUser": "tomp736",
+            "repositoryName": "infosphere.smartinator.flashinator",
+            "branchName": "main",
+            "filePath": "examples/flash-cards.json"
+        },
+        {
+            "githubUser": "tomp736",
+            "repositoryName": "infosphere.smartinator.flashinator",
+            "branchName": "main",
+            "filePath": "examples/futurama.json"
+        }
+    ]
+}

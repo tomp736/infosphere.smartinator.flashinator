@@ -1,0 +1,25 @@
+FROM mcr.microsoft.com/dotnet/sdk:7.0 AS build-env
+WORKDIR /App
+
+# Copy csprojs
+COPY flashinator.core/flashinator.core.csproj ./flashinator.core/flashinator.core.csproj
+COPY flashinator.data/flashinator.data.csproj ./flashinator.data/flashinator.data.csproj
+COPY flashinator.webapi/flashinator.webapi.csproj ./flashinator.webapi/flashinator.webapi.csproj
+
+# Restore as distinct layers
+RUN dotnet restore flashinator.core
+RUN dotnet restore flashinator.data
+RUN dotnet restore flashinator.webapi
+
+COPY flashinator.core ./flashinator.core
+COPY flashinator.data ./flashinator.data
+COPY flashinator.webapi ./flashinator.webapi
+
+# Build and publish a release
+RUN dotnet publish flashinator.webapi -c Release -o out
+
+# Build runtime image
+FROM mcr.microsoft.com/dotnet/aspnet:7.0
+WORKDIR /App
+COPY --from=build-env /App/out .
+ENTRYPOINT ["dotnet", "flashinator.webapi.dll"]

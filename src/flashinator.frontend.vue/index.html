@@ -1,0 +1,28 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Flashinator</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <b>*These flashcards are provided without any guarantee of accuracy, and their validity or reliability is not assured or warranted.</b>
+  <div id="app">
+    <div class="flashcard" @click="flipCard">
+      <div class="front" v-if="! showBack">
+        <h2>{{ card.front.text }}</h2>
+        <audio v-if="card.back.audio" :src="card.front.audio" controls></audio>
+        <video v-if="card.back.video" :src="card.front.video" controls></video>
+      </div>
+      <div class="back" v-if="showBack">
+        <h2>{{ card.back.text }}</h2>
+        <audio v-if="card.back.audio" :src="card.back.audio" controls></audio>
+        <video v-if="card.back.video" :src="card.back.video" controls></video>
+      </div>
+    </div>
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.js"></script>
+  <script src="main.js"></script>
+</body>
+</html>
