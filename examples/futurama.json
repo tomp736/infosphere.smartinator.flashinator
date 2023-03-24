@@ -1,0 +1,562 @@
+[
+    {
+        "category": "Futurama Characters",
+        "details": "Who said it?",
+        "front": {
+            "text": "Good news everyone!",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        },
+        "back": {
+            "text": "Professor Farnsworth",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        }
+    },
+    {
+        "category": "Futurama Episodes",
+        "details": "What happened in this episode?",
+        "front": {
+            "text": "The Why of Fry",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        },
+        "back": {
+            "text": "Fry discovers that he was his own grandfather",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        }
+    },
+    {
+        "category": "Futurama Science",
+        "details": "What is the name of this scientific concept?",
+        "front": {
+            "text": "A parallel universe with backwards time flow",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        },
+        "back": {
+            "text": "A 'chronotons' universe",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        }
+    },
+    {
+        "category": "Futurama Quotes",
+        "details": "Who said it?",
+        "front": {
+            "text": "I'm gonna go build my own theme park! With blackjack! And hookers!",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        },
+        "back": {
+            "text": "Bender",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        }
+    },
+    {
+        "category": "Futurama Technology",
+        "details": "What is the name of this invention?",
+        "front": {
+            "text": "A device that can record and play back dreams",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        },
+        "back": {
+            "text": "The What-If Machine",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        }
+    },
+    {
+        "category": "Futurama Pop Culture References",
+        "details": "What is the name of the parody being referenced?",
+        "front": {
+            "text": "A time-traveling phone booth that looks like a portable toilet",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        },
+        "back": {
+            "text": "Doctor Who",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        }
+    },
+    {
+        "category": "Futurama Geography",
+        "details": "What is the name of this planet?",
+        "front": {
+            "text": "A planet populated entirely by robots",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        },
+        "back": {
+            "text": "Chapek 9",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        }
+    },
+    {
+        "category": "Infosphere",
+        "details": "What is the name of this Futurama episode?",
+        "front": {
+            "text": "The episode where Fry becomes a celebrity in the Infosphere",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        },
+        "back": {
+            "text": "The Duh-Vinci Code",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        }
+    },
+    {
+        "category": "Infosphere",
+        "details": "What is the name of the entity that controls the Infosphere?",
+        "front": {
+            "text": "The all-knowing, all-seeing entity that governs the Infosphere",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        },
+        "back": {
+            "text": "The Central Bureaucracy",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        }
+    },
+    {
+        "category": "Infosphere",
+        "details": "What is the name of the website that Bender creates in the Infosphere?",
+        "front": {
+            "text": "The website that Bender creates to sell copies of his folk music album",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        },
+        "back": {
+            "text": "Bend-a-mite",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        }
+    },
+    {
+        "category": "Infosphere",
+        "details": "What is the name of the company that Fry works for in the Infosphere?",
+        "front": {
+            "text": "The company that Fry works for in the Infosphere, where he writes advertisements for products he hates",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        },
+        "back": {
+            "text": "Box Network",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        }
+    },
+    {
+        "category": "Infosphere",
+        "details": "What is the name of the virus that infects the Infosphere?",
+        "front": {
+            "text": "The virus that infects the Infosphere and causes chaos throughout the universe",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        },
+        "back": {
+            "text": "The Werecar Virus",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        }
+    },
+    {
+        "category": "Infosphere",
+        "details": "What is the name of the character who serves as the Infosphere's police chief?",
+        "front": {
+            "text": "The character who serves as the Infosphere's police chief",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        },
+        "back": {
+            "text": "Earl-E",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        }
+    },
+    {
+        "category": "Futurama Episodes",
+        "details": "What is the name of the weapon that Fry uses to defeat the Infosphere?",
+        "front": {
+            "text": "The weapon that Fry uses to defeat the Infosphere",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        },
+        "back": {
+            "text": "The Anti-Backwards Crystal",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        }
+    },
+    {
+        "category": "Futurama Science",
+        "details": "What is the name of the phenomenon that causes Fry to become immune to the Brainspawn's control?",
+        "front": {
+            "text": "The phenomenon that causes Fry to become immune to the Brainspawn's control",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        },
+        "back": {
+            "text": "Delta Brain Wave",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        }
+    },
+    {
+        "category": "Futurama Episodes",
+        "details": "What is the name of the episode in which Bender becomes a robot wrestler?",
+        "front": {
+            "text": "The episode in which Bender becomes a robot wrestler",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        },
+        "back": {
+            "text": "Raging Bender",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        }
+    },
+    {
+        "category": "Futurama Characters",
+        "details": "What is the name of the alien who becomes the Professor's new intern in Season 6?",
+        "front": {
+            "text": "The name of the alien who becomes the Professor's new intern in Season 6",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        },
+        "back": {
+            "text": "Larry",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        }
+    },
+    {
+        "category": "Futurama Episodes",
+        "details": "What is the name of the episode in which Bender becomes a folk singer?",
+        "front": {
+            "text": "The episode in which Bender becomes a folk singer",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        },
+        "back": {
+            "text": "The Cyber House Rules",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        }
+    },
+    {
+        "category": "Futurama Characters",
+        "details": "What is the name of the robot who claims to be Bender's father in Season 2?",
+        "front": {
+            "text": "The name of the robot who claims to be Bender's father in Season 2",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        },
+        "back": {
+            "text": "Flexo",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        }
+    },
+    {
+        "category": "Futurama Characters",
+        "details": "What is the name of the robot that Mom uses to control her children?",
+        "front": {
+            "text": "The name of the robot that Mom uses to control her children",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        },
+        "back": {
+            "text": "The Farnsworth Parabox",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        }
+    },
+    {
+        "category": "Futurama Episodes",
+        "details": "What is the name of the episode in which Mom creates a robot Santa Claus?",
+        "front": {
+            "text": "The episode in which Mom creates a robot Santa Claus",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        },
+        "back": {
+            "text": "Xmas Story",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        }
+    },
+    {
+        "category": "Futurama Technology",
+        "details": "What is the name of the social media platform that parodies Twitter in Futurama?",
+        "front": {
+            "text": "The name of the social media platform that parodies Twitter in Futurama",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        },
+        "back": {
+            "text": "Twitcher",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        }
+    },
+    {
+        "category": "Futurama Episodes",
+        "details": "What is the name of the episode in which the Planet Express crew becomes addicted to Twitcher?",
+        "front": {
+            "text": "The name of the episode in which the Planet Express crew becomes addicted to Twitcher",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        },
+        "back": {
+            "text": "The Inhuman Torch",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        }
+    },
+    {
+        "category": "Futurama Episodes",
+        "details": "What is the name of the company that is causing the environmental disaster in 'The Inhuman Torch' episode?",
+        "front": {
+            "text": "The name of the company that is causing the environmental disaster in 'The Inhuman Torch' episode",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        },
+        "back": {
+            "text": "Möbius Dick",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        }
+    },
+    {
+        "category": "Futurama Characters",
+        "details": "What is the name of the robot who becomes a superhero in 'The Inhuman Torch' episode?",
+        "front": {
+            "text": "The name of the robot who becomes a superhero in 'The Inhuman Torch' episode",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        },
+        "back": {
+            "text": "Fender",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        }
+    },
+    {
+        "category": "Futurama Technology",
+        "details": "What is the name of the eye implant that parodies the iPhone in Futurama?",
+        "front": {
+            "text": "The name of the eye implant that parodies the iPhone in Futurama",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        },
+        "back": {
+            "text": "The eyePhone",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        }
+    },
+    {
+        "category": "Futurama Episodes",
+        "details": "What is the name of the episode that features the eyePhone?",
+        "front": {
+            "text": "The name of the episode that features the eyePhone",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        },
+        "back": {
+            "text": "Attack of the Killer App",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        }
+    },
+    {
+        "category": "Futurama Characters",
+        "details": "What is the name of the company that produces the eyePhone in the episode?",
+        "front": {
+            "text": "The name of the company that produces the eyePhone in the episode",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        },
+        "back": {
+            "text": "MomCorp",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        }
+    },
+    {
+        "category": "Futurama Episodes",
+        "details": "What is the hashtag that Fry uses to become popular on Twit-ter in 'Attack of the Killer App'?",
+        "front": {
+            "text": "The hashtag that Fry uses to become popular on Twit-ter in 'Attack of the Killer App'",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        },
+        "back": {
+            "text": "#twitwits",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        }
+    },
+    {
+        "category": "Futurama Technology",
+        "details": "What is the name of the Twitter-like social media platform in 'Attack of the Killer App'?",
+        "front": {
+            "text": "The name of the Twitter-like social media platform in 'Attack of the Killer App'",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        },
+        "back": {
+            "text": "Twit-ter",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        }
+    },
+    {
+        "category": "Futurama Characters",
+        "details": "What is the name of the celebrity who tweets a picture of herself in the shower in 'Attack of the Killer App'?",
+        "front": {
+            "text": "The name of the celebrity who tweets a picture of herself in the shower in 'Attack of the Killer App'",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        },
+        "back": {
+            "text": "Bender",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        }
+    },
+    {
+        "category": "Futurama Characters",
+        "details": "What is Leela's job in the 'Attack of the Killer App' episode?",
+        "front": {
+            "text": "Leela's job in the 'Attack of the Killer App' episode",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        },
+        "back": {
+            "text": "Delivery captain at Planet Express",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        }
+    },
+    {
+        "category": "Futurama Episodes",
+        "details": "What is the name of the social media platform that becomes popular in 'Attack of the Killer App'?",
+        "front": {
+            "text": "The name of the social media platform that becomes popular in 'Attack of the Killer App'",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        },
+        "back": {
+            "text": "Twttr",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        }
+    },
+    {
+        "category": "Futurama Characters",
+        "details": "What is the name of the person that Leela starts dating because of Twttr in 'Attack of the Killer App'?",
+        "front": {
+            "text": "The name of the person that Leela starts dating because of Twttr in 'Attack of the Killer App'",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        },
+        "back": {
+            "text": "Adoy",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        }
+    },
+    {
+        "category": "Futurama Episodes",
+        "details": "What is the bet between Bender and Fry in 'Attack of the Killer App'?",
+        "front": {
+            "text": "The bet between Bender and Fry in 'Attack of the Killer App'",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        },
+        "back": {
+            "text": "Whether or not Bender can get more followers than Fry on Twttr",
+            "audio": "",
+            "video": "",
+            "interactive": false
+        }
+    }
+]
