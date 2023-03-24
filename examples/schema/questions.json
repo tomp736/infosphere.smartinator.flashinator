@@ -1,0 +1,16 @@
+{
+    "category": "Science",
+    "details": "Flashcards should be made of durable materials that can withstand frequent use. This helps to ensure that the flashcards remain in good condition, even after extended use.",
+    "front": {
+        "text": "Chemical elements: Symbols and names",
+        "audio": "https://example.com/audio/elements.mp3",
+        "video": "https://example.com/audio/elements.mp4",
+        "interactive": false
+    },
+    "back": {
+        "text": "H - Hydrogen, He - Helium, Li - Lithium, Be - Beryllium, B - Boron, C - Carbon",
+        "audio": "https://example.com/audio/elements.mp3",
+        "video": "https://example.com/audio/elements.mp4",
+        "interactive": false
+    }
+}

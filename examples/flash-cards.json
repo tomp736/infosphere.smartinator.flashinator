@@ -1,0 +1,75 @@
+[
+    {
+        "category": "Science",
+        "details": "Flashcards should contain bite-sized pieces of information that are easy to read and remember. The information should be clear, concise, and focused on a specific topic or concept.",
+        "front": {
+            "text": "What is the capital of France?"
+        },
+        "back": {
+            "text": "Paris"
+        }
+    },
+    {
+        "category": "Science",
+        "details": "Flashcards should be well-organized with information grouped into logical categories or themes. This helps learners to easily find and remember related information.",
+        "front": {
+            "text": "Types of clouds"
+        },
+        "back": {
+            "text": "Cirrus, cumulus, stratus"
+        }
+    },
+    {
+        "category": "Biology",
+        "details": "Including pictures, diagrams, and other visual aids can help learners to remember the information more easily. Visual aids can also help to break up long blocks of text and make the flashcards more visually appealing.",
+        "front": {
+            "text": "Parts of a flower",
+            "image": "https://example.com/images/flower.jpg"
+        },
+        "back": {
+            "text": "Petal, stigma, style, ovary"
+        }
+    },
+    {
+        "category": "Language",
+        "details": "Flashcards are most effective when they are used for repeated practice. Good flashcards should be designed with repetition in mind, with the most important information repeated several times throughout the deck.",
+        "front": {
+            "text": "Spanish verb conjugation: Ser (to be)"
+        },
+        "back": {
+            "text": "Yo soy, tú eres, él/ella/usted es, nosotros/as somos, vosotros/as sois, ellos/ellas/ustedes son"
+        }
+    },
+    {
+        "category": "Science",
+        "details": "Interactive elements, such as prompts or questions, can make flashcards more engaging and interactive. This can help to keep learners motivated and focused while studying.",
+        "front": {
+            "text": "What are the four states of matter?"
+        },
+        "back": {
+            "text": "",
+            "interactive": true
+        }
+    },
+    {
+        "category": "History",
+        "details": "Flashcards are most effective when they are portable and easy to carry around. Good flashcards should be small enough to fit into a pocket or purse, so learners can review them at any time.",
+        "front": {
+            "text": "Important historical dates"
+        },
+        "back": {
+            "text": "1776: Declaration of Independence, 1865: End of Civil War, 1969: Moon landing"
+        }
+    },
+    {
+        "category": "Science",
+        "details": "Flashcards should be made of durable materials that can withstand frequent use. This helps to ensure that the flashcards remain in good condition, even after extended use.",
+        "front": {
+            "text": "Chemical elements: Symbols and names"
+        },
+        "back": {
+            "text": "H - Hydrogen, He - Helium, Li - Lithium, Be - Beryllium, B - Boron, C - Carbon",
+            "audio": "https://example.com/audio/elements.mp3"
+        }
+    }
+]
